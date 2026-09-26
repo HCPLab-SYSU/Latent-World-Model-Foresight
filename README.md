@@ -1,1 +1,1 @@
-# Push-T-for-World-Models
+# Latent-World-Model-Foresight
